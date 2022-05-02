@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: https://gitee.com/Kimariyb/picture-library/raw/master/pic/logo.png
+favicon: /img/favicon.ico
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: https://gitee.com/Kimariyb/picture-library/raw/master/pic/logo.png
+apple_touch_icon: /img/favicon.ico
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -439,7 +439,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /https://gitee.com/Kimariyb/picture-library/raw/master/pic/background.jpg
+  banner_img: /img/background.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
