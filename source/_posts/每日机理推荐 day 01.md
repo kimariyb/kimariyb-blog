@@ -3,8 +3,11 @@ title: 每日机理推荐 day 01
 index_img: /img/day01/day01-00.png 
 excerpt: 有关烯烃的亲电加成的反应机理以及注意事项。
 date: 2022-05-02 14:58:19
-categories: 化学
+categories: 
+    - 化学
+      - 有机化学
 tags: 
+    - 有机化学
     - 机理
     - 烯烃
     - 亲电加成
