@@ -7,7 +7,8 @@ categories:
     - [化学, 有机化学]
 tags: 
     - 羰基的保护
-    - 缩醛
+    - 缩醛的形成
+    - 缩醛的水解
     - 机理
     - 有机化学
 ---
@@ -37,4 +38,4 @@ tags:
 请读者阅读如下机理。
 {% endnote %}
 
-![Mechanism 2](/img/day02/day02-03.png)
+![Mechanism 2](/img/day02/day02-04.png)
