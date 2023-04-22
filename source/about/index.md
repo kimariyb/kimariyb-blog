@@ -1,6 +1,7 @@
 ---
-title: About Me
-date: 2023-04-22 17:33:06
+title: 关于
+date: 2023-04-22 20:40:13
+type: "about"
 ---
 
 ## Education

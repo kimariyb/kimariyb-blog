@@ -85,3 +85,8 @@ valine:
 # 获取统计JS代码放入 Anatolo/source/js/baidu-tongji.js
 
 Baidutongji: false
+
+pdf:
+  enable: true
+  # Default height
+  height: 500p
