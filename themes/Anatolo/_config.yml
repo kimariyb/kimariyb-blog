@@ -1,6 +1,6 @@
 # Blog config
 keywords: Blog, Chemistry, Computer 
-author: Kimariyb 喵小决
+author: Kimariyb 
 description: A computational chemistry rookie's blog
 
 # icon
@@ -12,7 +12,7 @@ logo_style: width:220px;
 
 copyright:
   show: true
-  default: "本文采用CC-BY-SA-3.0协议，本文著作权归作者所有，转载请注明出处"
+  default: "This article adopts the CC-BY-SA-3.0 agreement, the copyright of this article belongs to the author, please indicate the source when reprinting."
   show_author: true
 
 # 你可以在文章中对文章进行单独设置copyright
@@ -24,7 +24,7 @@ copyright:
 
 footbar:
   # Copyright
-  copyright: 全站CC-BY-SA-3.0
+  copyright: CC-BY-SA-3.0
   # 对于中国用户，如果你有网站备案：
   beian: 赣ICP备2021007329号-2
   gongan: 赣公网安备 36030202000308号
