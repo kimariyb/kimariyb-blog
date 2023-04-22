@@ -411,7 +411,7 @@ font:
   enable: true
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
-  host: https://fonts.lug.ustc.edu.cn
+  host:  https://fonts.loli.net
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -502,7 +502,7 @@ math:
   mathjax:
     enable: true
     # See: https://mhchem.github.io/MathJax-mhchem/
-    mhchem: true
+    mhchem: false
 
   # hexo-renderer-markdown-it-plus (or hexo-renderer-markdown-it with markdown-it-katex plugin) required for full Katex support.
   katex:
@@ -805,7 +805,7 @@ tabs:
 # So, you have to install the dependency of pdf.js if you want to use pdf tag and make it available to all browsers.
 # See: https://github.com/theme-next/theme-next-pdf
 pdf:
-  enable: false
+  enable: true
   # Default height
   height: 500px
 
