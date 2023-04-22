@@ -3,16 +3,12 @@ title: About Me
 date: 2023-04-22 17:33:06
 ---
 
----
-
 ## Education
 
 - **XiaMen University**, Fujian, China in Sep. 2023 – Present
   - *Master student* in Radio Physics (RP), expected March 2026
 - **JiangXi University of Science and Technology**, JiangXi, China in Sep. 2019 – Jul. 2023                  
   - *B.Eng* in Software Engineering (SE)
-
----
 
 ## Experience
 
@@ -37,7 +33,6 @@ date: 2023-04-22 17:33:06
     - ICSS is used to determine the aromaticity of the compound.
     - ELF and LOL is used to determine the aromaticity of the compound.
 
----
 
 ## Skills
 
@@ -50,7 +45,6 @@ date: 2023-04-22 17:33:06
   machine learning and chemistry.
 - Musical Instrument: I have years of experience playing and performing guitar as a hobby.
 
----
 
 ## Honors and Awards
 
