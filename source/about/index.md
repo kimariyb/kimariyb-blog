@@ -23,7 +23,8 @@ type: "about"
     - The performance of the video website has been improved.
 - **Six Veins Excalibur of Organic Chemistry** in Mar. 2023 – Present
   - LaTex, Chemdraw, chemstyle 
-  - Exercise collection for graduate entrance exam in Organic Chemistry, https://github.com/kimariyb/organic-chemistry
+  - Exercise collection for graduate entrance exam in Organic Chemistry
+  - https://github.com/kimariyb/organic-chemistry
     - Summary of high-quality organic chemistry graduate entrance exam questions from major universities.
 - **Briefly explore whether the compound cyclobuta[1,2:3,4]di[5]annulene possesses aromaticity** in Mar. 2023 – Apr. 2023
   - Gaussian, AICD, Multiwfn, Chemdraw 
