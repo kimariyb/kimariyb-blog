@@ -43,8 +43,7 @@ type: "about"
 - Database: MySQL > SQL Server
 - Platform: Fedora Linux > Ubuntu Linux > Arch Liunx
 - Theoretical and Computational Chemistry Software: Chemdraw, Gaussian, Multiwfn, VMD, AICD etc.
-- Development: Interdisciplinary subjects between computer science, software engineering, artificial intelligence,
-  machine learning and chemistry.
+- Development: Interdisciplinary subjects between computer science, software engineering, artificial intelligence, machine learning and chemistry.
 - Musical Instrument: I have years of experience playing and performing guitar as a hobby.
 
 
