@@ -38,13 +38,14 @@ type: "about"
 
 ## Skills
 
-- Programming Languages: Java == Go > Csharp > Python > C
-- Text Markup Languages: Markdown == LaTex > HTML, CSS etc.
-- Database: MySQL > SQL Server
-- Platform: Fedora Linux > Ubuntu Linux > Arch Liunx
-- Theoretical and Computational Chemistry Software: Chemdraw, Gaussian, Multiwfn, VMD, AICD etc.
-- Development: Interdisciplinary subjects between computer science, software engineering, artificial intelligence, machine learning and chemistry.
-- Musical Instrument: I have years of experience playing and performing guitar as a hobby.
+- **Programming Languages**: Java == Go > Csharp > Python > C
+- **Text Markup Languages**: Markdown == LaTex > HTML, CSS etc.
+- **Database**: MySQL > SQL Server
+- **Platform**: Fedora Linux > Ubuntu Linux > Arch Liunx
+- **Scientific research and office software**: Chemdraw, Origin, Office Software.
+- **Theoretical and Computational Chemistry Software**: Gaussian, Multiwfn, CP2K, ORCA, VMD, AICD.
+- **Development**: Interdisciplinary subjects between computer science, software engineering, artificial intelligence, machine learning and chemistry.
+- **Musical Instrument**: I have years of experience playing and performing guitar as a hobby.
 
 
 ## Honors and Awards
