@@ -46,7 +46,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: true 
+  auto_detect: false 
   tab_replace: ''
   wrap: true
   hljs: false
@@ -106,3 +106,18 @@ deploy:
   repo: https://github.com/kimariyb/kimariyb-blog
   branch: main
 
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+  awl: 4
+  wpm: 275
+  suffix: "mins."
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
