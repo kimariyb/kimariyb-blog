@@ -4,44 +4,34 @@ date: 2023-04-22 20:40:13
 type: "about"
 ---
 
+## Personal Profile
+
+My name is kimariyb and I graduated from Jiangxi University of Science and Technology with a major in Software Engineering. I will be pursuing a Master's degree at Xiamen University. I am passionate about computer science and computational chemistry and I aspire to become an excellent researcher through continuous learning and practice.
+
 ## Education
 
-- **XiaMen University**, Fujian, China in Sep. 2023 – Present
-  - *Master student* in Radio Physics (RP), expected March 2026
-- **JiangXi University of Science and Technology**, JiangXi, China in Sep. 2019 – Jul. 2023                  
-  - *B.Eng* in Software Engineering (SE)
+- Bachelor's degree in Software Engineering, Jiangxi University of Science and Technology (2019-2023)
+- Master's degree in Radio Physics, Xiamen University (2023-2026)
 
-## Experience
+## Skills and Research Interests
 
-- **Zhen Yu Kao Yan**, ShanDong, China in Apr. 2023 – Present
-  - Part-time Job
-  - Brief introduction: Serve as a graduate entrance exam assistant.
-- **Go language video website Projects** in Oct. 2022 – Present
-  - Go, Beego, MySQL, Redis, RabbitMQ, ElasticSearch, Fedora Linux 
-  - Brief introduction: Undergraduate bachelor's thesis.
-- **Six Veins Excalibur of Organic Chemistry** in Mar. 2023 – Present
-  - LaTex, Chemdraw, chemstyle 
-  - Exercise collection for graduate entrance exam in Organic Chemistry
-  - https://github.com/kimariyb/organic-chemistry
-- **Briefly explore whether the compound cyclobuta[1,2:3,4]di[5]annulene possesses aromaticity** in Mar. 2023 – Apr. 2023
-  - Gaussian, AICD, Multiwfn, Chemdraw 
-  - This study explores the aromaticity of the compound using theoretical and computational chemistry tools Gaussian
-    and Multiwfn.
+- Programming languages: Java, Python, C#, Go, JavaScript
+- Frameworks and tools: Spring, MyBatis, Git, RabbitMQ, Redis
+- Theoretical and computational chemistry tools: Gaussian, ORCA, CP2K, VASP, Multiwfn, AICD, GIMIC
+- Visualization software: GaussView, VMD, ParaView, Chemdraw 
+- Research interests: Artificial Intelligence, Machine Learning, Computational Chemistry
 
+## Project Experience
 
-
-## Skills
-
-- **Programming Languages**: Java == Go > Csharp > Python > C
-- **Text Markup Languages**: Markdown == LaTex > HTML, CSS etc.
-- **Database**: MySQL > SQL Server
-- **Platform**: Fedora Linux > Ubuntu Linux > Arch Liunx
-- **Scientific research and office software**: Chemdraw, Origin, Office Software.
-- **Theoretical and Computational Chemistry Software**: Gaussian, Multiwfn, CP2K, ORCA, VMD, AICD.
-- **Development**: Interdisciplinary subjects between computer science, software engineering, artificial intelligence, machine learning and chemistry.
-- **Musical Instrument**: I have years of experience playing and performing guitar as a hobby.
+- ikuns Video Project: Developed an online video player platform using Go and Beego framework, which includes Video playback, video upload, video display and other functions (2023)
+ 
 
 
 ## Honors and Awards
 
 - ***3rd Prize***, Award on Chinese Chemistry Olympiad (Preliminary), CChO Oct. 2017
+
+## Contact Information
+
+- Email：kimariyb@163.com
+- Github：https://github.com/kimariyb
