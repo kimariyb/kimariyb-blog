@@ -10,22 +10,21 @@ My name is kimariyb and I graduated from Jiangxi University of Science and Techn
 
 ## Education
 
-- Bachelor's degree in Software Engineering, Jiangxi University of Science and Technology (2019-2023)
-- Master's degree in Radio Physics, Xiamen University (2023-2026)
+- **Bachelor's degree** : Software Engineering, Jiangxi University of Science and Technology (2019-2023)
+- **Master's degree** : Radio Physics, Xiamen University (2023-2026)
 
 ## Skills and Research Interests
 
-- Programming languages: Java, Python, C#, Go, JavaScript
-- Frameworks and tools: Spring, MyBatis, Git, RabbitMQ, Redis
-- Theoretical and computational chemistry tools: Gaussian, ORCA, CP2K, VASP, Multiwfn, AICD, GIMIC
-- Visualization software: GaussView, VMD, ParaView, Chemdraw 
-- Research interests: Artificial Intelligence, Machine Learning, Computational Chemistry
+- **Programming languages:** `Java, Python, C#, Go, JavaScript`
+- **Frameworks and tools:** `Spring, MyBatis, Git, RabbitMQ, Redis`
+- **Computational chemistry tools:** `Gaussian, ORCA, CP2K, Multiwfn, AICD, GIMIC`
+- **Visualization software:** `GaussView, VMD, ParaView, Chemdraw` 
+- **Research interests:** `Artificial Intelligence, Machine Learning, Computational Chemistry`
 
 ## Project Experience
 
-- ikuns Video Project: Developed an online video player platform using Go and Beego framework, which includes Video playback, video upload, video display and other functions (2023)
- 
-
+- **ikunsVideo:** Developed an online video player platform using Go and Beego framework, which includes Video playback, video upload, video display and other functions (2023)
+- **KimariPlot:** an open-source plotting software developed in Python, primarily used for quickly creating common energy profile and conformational curve plots found in scientific literature (2023) <url color="red">https://github.com/kimariyb/kimariPlot</url>
 
 ## Honors and Awards
 
@@ -33,5 +32,5 @@ My name is kimariyb and I graduated from Jiangxi University of Science and Techn
 
 ## Contact Information
 
-- Email：kimariyb@163.com
-- Github：https://github.com/kimariyb
+- **Email:** kimariyb@163.com
+- **Github:** https://github.com/kimariyb
