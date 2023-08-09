@@ -10,8 +10,8 @@ My name is kimariyb and I graduated from Jiangxi University of Science and Techn
 
 ## Education
 
-- **Bachelor's degree** : Software Engineering, Jiangxi University of Science and Technology (2019-2023)
-- **Master's degree** : Radio Physics, Xiamen University (2023-2026)
+- **Degree of Bachelor** : Software Engineering, ***Jiangxi University of Science and Technology*** (2019-2023)
+- **Degree of Master** : Radio Physics, ***Xiamen University*** (2023-2026)
 
 ## Skills and Research Interests
 
@@ -31,7 +31,8 @@ My name is kimariyb and I graduated from Jiangxi University of Science and Techn
 
 ## Honors and Awards
 
-- ***3rd Prize***, Award on Chinese Chemistry Olympiad (Preliminary), CChO Oct. 2017
+- *<strong style="color:red; font-size:14pt">3rd Prize</strong>*, Award on Chinese Chemistry Olympiad (Preliminary), CChO Oct. 2017
+
 
 ## Contact Information
 
